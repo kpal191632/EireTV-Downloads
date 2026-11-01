@@ -7,13 +7,6 @@
       "category": "STREAMING PLAYER",
       "description": "The original Éire TV application. Download, install or check for the latest version.",
       "apkUrl": "https://apk.st/MDBZG"
-    },
-    {
-      "id": "ibo-eiretv",
-      "title": "Éire TV IBO Pro",
-      "category": "STREAMING PLAYER • DOWNLOADER",
-      "description": "Updated APK link pending. Use AFTVnews Downloader code 6158989 in the meantime.",
-      "downloaderCode": "6158989"
     }
   ]
 }
