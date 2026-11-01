@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "apps": [
+    {
+      "id": "xciptv",
+      "title": "Éire TV • XCIPTV",
+      "category": "STREAMING PLAYER",
+      "description": "The original Éire TV application. Download, install or check for the latest version.",
+      "apkUrl": "https://apk.st/MDBZG"
+    }
+  ]
+}
