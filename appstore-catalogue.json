@@ -10,9 +10,10 @@
     },
     {
       "id": "ibo-eiretv",
-      "title": "IBO Éire TV",
-      "category": "STREAMING PLAYER • DOWNLOADER",
-      "description": "Open AFTVnews Downloader and enter code 6158989 to install IBO Éire TV.",
+      "title": "Éire TV IBO Pro",
+      "category": "STREAMING PLAYER",
+      "description": "Download Éire TV IBO Pro. Backup Downloader code: 6158989. Android will validate the APK before installing.",
+      "apkUrl": "https://a1x-panels.com/s/zh3TTW",
       "downloaderCode": "6158989"
     }
   ]
