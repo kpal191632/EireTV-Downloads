@@ -7,6 +7,13 @@
       "category": "STREAMING PLAYER",
       "description": "The original Éire TV application. Download, install or check for the latest version.",
       "apkUrl": "https://apk.st/MDBZG"
+    },
+    {
+      "id": "ibopro",
+      "title": "Éire TV • IBO Pro",
+      "category": "STREAMING PLAYER",
+      "description": "Download and install the Éire TV IBO Pro application.",
+      "apkUrl": "https://a1x-panels.com/_drop/IboPro_G32_b127.apk"
     }
   ],
   "support": {
